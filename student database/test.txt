@@ -1,0 +1,10 @@
+016269090,first1 last1,freshman,female
+123654987,first2 last2,sophomore,male
+678091234,first3 last3,senior,female
+123456780,first4 last4,junior,male
+321456781,first5 last5,freshman,female
+012345665,first6 last6,senior,male
+521098472,first7 last7,sophomore,female
+234521789,first8 last8,freshman,male
+013487693,first9 last9,senior,male
+987654321,first10 last10,sophomore,female
